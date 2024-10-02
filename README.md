@@ -16,9 +16,9 @@
 [![](https://visitcount.itsvg.in/api?id=raunakgola&label=Profile%20Views&color=9&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 
+<!---
 ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-<!---
 raunakgola/raunakgola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
