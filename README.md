@@ -10,7 +10,7 @@
 ![raunakgola's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raunakgola&theme=vue-dark&hide_border=false)
 
 
-![raunakgola's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raunakgola&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![raunakgola's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raunakgola&theme=gray)
 
 
 [![](https://visitcount.itsvg.in/api?id=raunakgola&label=Profile%20Views&color=9&icon=1&pretty=false)](https://visitcount.itsvg.in)
