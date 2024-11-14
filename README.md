@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that serve with DL models
 - 😄 Pronouns: he/him
 
-![raunakgola's Stats](https://github-readme-stats.vercel.app/api?username=raunakgola&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![raunakgola's Stats](https://github-readme-stats.vercel.app/api?username=raunakgola&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
 
 ![raunakgola's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raunakgola&theme=vue-dark&hide_border=false)
