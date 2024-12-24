@@ -7,7 +7,7 @@
 ![raunakgola's Stats](https://github-readme-stats.vercel.app/api?username=raunakgola&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
 
-![raunakgola's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raunakgola&theme=vue-dark&hide_border=false)
+![raunakgola's Streak](![raunakgola's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raunakgola&theme=vue-dark&hide_border=true))
 
 
 ![raunakgola's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raunakgola&theme=dark)
