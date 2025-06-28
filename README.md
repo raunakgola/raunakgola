@@ -45,7 +45,7 @@
 [![Raunakgola's Stats](https://github-readme-stats.vercel.app/api?username=Raunakgola&theme=react&show_icons=true&hide_border=false&count_private=true)](https://github.com/raunakgola) 
 <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakgola&size_weight=0.15&count_weight=0.5&layout=compact&theme=react">
 
-[![GitHub Status](https://streak-stats.demolab.com?user=raunakgola&theme=react&border_radius=4.3&short_numbers=true)](https://github.com/raunakgola)
+[![GitHub Streak](https://streak-stats.demolab.com?user=raunakgola&theme=react&border_radius=4.3&short_numbers=true)](https://github.com/raunakgola)
 
 
 
