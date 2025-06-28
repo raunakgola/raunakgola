@@ -47,6 +47,8 @@
 
 [![GitHub Streaks](https://streak-stats.demolab.com?user=raunakgola&theme=react&border_radius=4.3&short_numbers=true)](https://github.com/raunakgola)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raunakgola&theme=react" alt="GitHub Streak" /></a>
+
 
 
 </div>
