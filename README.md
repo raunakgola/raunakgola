@@ -50,8 +50,7 @@
 
 
 </div>
-
-<h3 align="center">🌐 Connect with me:</h3>
+<h2 align="center"><b>🌐 Connect with me:</b></h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/raunak-gola-a61b60293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raunak Gola LinkedIn" height="30" width="40" /></a>
 <a href="https://medium.com/@raunakgola123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Raunak Gola Medium" height="30" width="40" /></a>
