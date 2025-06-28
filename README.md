@@ -1,4 +1,4 @@
-h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Raunak+Gola" alt="Typing SVG" /></a> </h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Raunak+Gola" alt="Typing SVG" /></a> </h1>
 
 <h3 align="center">I'm an AI/ML enthusiast focused on building useful and meaningful solutions.</h3>
 
@@ -36,17 +36,18 @@ h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-t
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2304988a.svg?style=flat&logo=FastAPI&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%231f1f1f.svg?style=flat&logo=Flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 ### 🛠️ Tools & Databases
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
 <h2 align="center"><b>📊 GitHub Stats:</b></h2>
 
 <div align="center">
   
-[![Raunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=raunakgola&show_icons=true&theme=transparent&hide_border=true&card_width=400)](https://github.com/raunakgola) 
+[![Raunakgola's Stats](https://github-readme-stats.vercel.app/api?username=Raunakgola&theme=react&show_icons=true&hide_border=false&count_private=true)](https://github.com/raunakgola) 
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakgola&size_weight=0.15&count_weight=0.5&layout=compact&theme=react">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=raunakgola&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400)](https://github.com/raunakgola)
+[![GitHub Status](https://streak-stats.demolab.com?user=raunakgola&theme=react&border_radius=4.3&short_numbers=true)](https://github.com/raunakgola)
 
-<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakgola&size_weight=0.15&count_weight=0.5&layout=compact&theme=github_light">
+
 
 </div>
 
