@@ -2,12 +2,6 @@
 
 <h3 align="center">I'm an AI/ML enthusiast focused on building useful and meaningful solutions.</h3>
 
-<table align="center">
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/raunakgola/count.svg" alt="visitor count" height="30" width="224" /></td>
-  </tr>
-</table>
 
 <h2 align="center"><b>🚀 Featured Projects:</b></h2>
 
@@ -42,14 +36,20 @@
 
 <div align="center">
   
-[![Raunakgola's Stats](https://github-readme-stats.vercel.app/api?username=Raunakgola&theme=react&show_icons=true&hide_border=false&count_private=true)](https://github.com/raunakgola) 
-<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakgola&size_weight=0.15&count_weight=0.5&layout=compact&theme=react">
+<a href="https://github.com/raunakgola/raunakgola">
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=Raunakgola&hide_border=false&count_private=true&theme=react&rank_icon=github&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+</a>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raunakgola&theme=react" alt="GitHub Streak" /></a>
+<a href="https://github.com/raunakgola/raunakgola">
+  <img height=200 width=800 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakgola&layout=compact&theme=react" />
+</a>
 
-
+<a href="https://github.com/raunakgola/raunakgola">
+  <img height=200 width=800 align="center" src="https://streak-stats.demolab.com?user=raunakgola&theme=react" alt="GitHub Streak"/>
+</a>
 
 </div>
+
 <h2 align="center"><b>🌐 Connect with me:</b></h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/raunak-gola-a61b60293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raunak Gola LinkedIn" height="30" width="40" /></a>
