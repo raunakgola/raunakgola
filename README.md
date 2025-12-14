@@ -143,7 +143,7 @@ Mistral Chatbot is a conversational AI application built with Streamlit and the 
 </a>
 
 <a href="https://github.com/raunakgola/raunakgola">
-  <img height=200 width=800 align="center" src="https://streak-stats.demolab.com?user=raunakgola&theme=react" alt="GitHub Streak"/>
+  <img height=200 width=800 align="center" src="https://streak-stats.demolab.com?user=raunakgola&theme=react" alt="GitHub_Streak"/>
 </a>
 
 </div>
